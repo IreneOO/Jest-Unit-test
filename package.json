@@ -1,0 +1,8 @@
+{
+  "name": "Jest-Unit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IreneOO/Jest-Unit-test.git",
+  "author": "xinyu <ireneyqwq@gmail.com>",
+  "license": "MIT"
+}
